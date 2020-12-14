@@ -1,0 +1,2 @@
+# prvniKrok
+Learning GIT
